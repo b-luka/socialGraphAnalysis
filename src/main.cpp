@@ -144,9 +144,9 @@ int main(int argc, char** argv) {
 			if (listAll == 'y' || listAll == 'Y') {
 				cout << "> Available commands:\n";
 				cout << "1. Print out the graph representation.\n";
-				cout << "2. Add and edge to the graph.\n";
+				cout << "2. Add an edge to the graph.\n";
 				cout << "3. Add a vertex to the graph.\n";
-				cout << "4. Remove and edge from the graph.\n";
+				cout << "4. Remove an edge from the graph.\n";
 				cout << "5. Remove a vertex from the graph.\n";
 				cout << "6. Simulate liking a post from one user (vertex) to another.\n";
 				cout << "7. Print out the largest strongly connected component in the graph.\n";
