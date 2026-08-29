@@ -28,6 +28,7 @@ If an error occurs, the program will shut down and if not you will be asked to e
 [Non negative number of starting graph edges]
 [Vertex names (usernames) separated by spaces]
 [vertex_from vertex_to height]
+...
 ```
 * For reference, look at the 3 provided example graphs. 
 
