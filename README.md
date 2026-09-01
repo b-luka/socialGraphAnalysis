@@ -2,7 +2,7 @@
 Simulate a small social media using graphs, written in C++.
 
 ## Compilation Commands:
-* **Compile the project:**
+* **Compile the program:**
   ```bash
   make
   ```
@@ -10,7 +10,7 @@ Simulate a small social media using graphs, written in C++.
   ```bash
   make clean
   ```
-* **Run the emulator directly after compilation:**
+* **Run the program directly after compilation:**
   ```bash
   .\socialGraph.exe
   ```
